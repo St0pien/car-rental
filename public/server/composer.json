@@ -1,0 +1,15 @@
+{
+    "name": "st0pien/server",
+    "authors": [
+        {
+            "name": "St0pien"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Models\\": "models",
+            "Controllers\\": "controllers"
+        }
+    }
+}
